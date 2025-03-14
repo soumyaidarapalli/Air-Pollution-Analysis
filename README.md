@@ -1,3 +1,2 @@
 # Air-Pollution-Analysis
-
-This dataset delivers an exhaustive examination of various air pollutants discharged globally, covering a broad timeline from 1750 to 2022. The data tracks emissions of key pollutants such as Nitrogen Oxide, Sulphur Dioxide, Carbon Monoxide, Organic Carbon, Ammonia, and Non-methane Volatile Organic Compounds, all quantified in metric tonnes.
+this report employs Tableau visualizations to unravel the complexities of air pollution. Over the years, human activities have released a myriad of pollutants into the atmosphere, affecting the delicate balance of our environment. The interactive visualizations in this report aim to not only showcase the historical trends in air pollution but also provide insights into the global efforts made to mitigate its impact
