@@ -1,0 +1,232 @@
+,Year,Pollutant,Percent Change
+198,1990,Ammonia (NH₃) emissions,0.0
+199,1991,Ammonia (NH₃) emissions,0.13399043416712028
+200,1992,Ammonia (NH₃) emissions,0.43549432010145334
+201,1993,Ammonia (NH₃) emissions,0.9713205417922686
+202,1994,Ammonia (NH₃) emissions,1.812805030451486
+203,1995,Ammonia (NH₃) emissions,2.269198301014846
+204,1996,Ammonia (NH₃) emissions,3.278886520858762
+205,1997,Ammonia (NH₃) emissions,4.290243268865188
+206,1998,Ammonia (NH₃) emissions,5.325480296842171
+207,1999,Ammonia (NH₃) emissions,6.144850435083541
+208,2000,Ammonia (NH₃) emissions,7.110606393105405
+209,2001,Ammonia (NH₃) emissions,7.3238815588931585
+210,2002,Ammonia (NH₃) emissions,8.26751469681107
+211,2003,Ammonia (NH₃) emissions,9.60504329153007
+212,2004,Ammonia (NH₃) emissions,11.426792310507501
+213,2005,Ammonia (NH₃) emissions,13.138295660310703
+214,2006,Ammonia (NH₃) emissions,15.286241935059019
+215,2007,Ammonia (NH₃) emissions,17.91220882383756
+216,2008,Ammonia (NH₃) emissions,18.547088024516015
+217,2009,Ammonia (NH₃) emissions,18.89608991012223
+218,2010,Ammonia (NH₃) emissions,20.807740412251807
+219,2011,Ammonia (NH₃) emissions,22.739269267667744
+220,2012,Ammonia (NH₃) emissions,24.572388840239952
+221,2013,Ammonia (NH₃) emissions,25.7531308406426
+222,2014,Ammonia (NH₃) emissions,26.4584693600212
+223,2015,Ammonia (NH₃) emissions,27.226720707781176
+224,2016,Ammonia (NH₃) emissions,29.278485227131153
+225,2017,Ammonia (NH₃) emissions,29.980181781484976
+226,2018,Ammonia (NH₃) emissions,31.32452423867474
+227,2019,Ammonia (NH₃) emissions,32.42491856185069
+228,2020,Ammonia (NH₃) emissions,33.25168273606095
+229,2021,Ammonia (NH₃) emissions,34.404051288014806
+230,2022,Ammonia (NH₃) emissions,35.5247940320559
+165,1990,Black carbon (BC) emissions,0.0
+166,1991,Black carbon (BC) emissions,0.44959941941238757
+167,1992,Black carbon (BC) emissions,-1.539730655360449
+168,1993,Black carbon (BC) emissions,-0.6283766131023791
+169,1994,Black carbon (BC) emissions,0.8176096072438214
+170,1995,Black carbon (BC) emissions,4.295652471016906
+171,1996,Black carbon (BC) emissions,3.033246493840961
+172,1997,Black carbon (BC) emissions,4.131418589161011
+173,1998,Black carbon (BC) emissions,-0.5321546274251263
+174,1999,Black carbon (BC) emissions,-2.2947306790626487
+175,2000,Black carbon (BC) emissions,-4.680173700450887
+176,2001,Black carbon (BC) emissions,-3.835901354844555
+177,2002,Black carbon (BC) emissions,-2.9784004986585004
+178,2003,Black carbon (BC) emissions,-0.6895461762225438
+179,2004,Black carbon (BC) emissions,2.8240052656448604
+180,2005,Black carbon (BC) emissions,5.168242236836491
+181,2006,Black carbon (BC) emissions,6.72221210033955
+182,2007,Black carbon (BC) emissions,7.9459432433392125
+183,2008,Black carbon (BC) emissions,9.562612132646095
+184,2009,Black carbon (BC) emissions,9.227999685521006
+185,2010,Black carbon (BC) emissions,10.667331401559355
+186,2011,Black carbon (BC) emissions,9.821153935768113
+187,2012,Black carbon (BC) emissions,11.34264731386551
+188,2013,Black carbon (BC) emissions,9.739117492876147
+189,2014,Black carbon (BC) emissions,7.494653365171201
+190,2015,Black carbon (BC) emissions,4.430638733132643
+191,2016,Black carbon (BC) emissions,2.269615291836238
+192,2017,Black carbon (BC) emissions,2.4275077173019888
+193,2018,Black carbon (BC) emissions,0.7603039498507969
+194,2019,Black carbon (BC) emissions,-1.5111359641343685
+195,2020,Black carbon (BC) emissions,-5.09753812856556
+196,2021,Black carbon (BC) emissions,-4.088817239674047
+197,2022,Black carbon (BC) emissions,-4.5884148836575305
+0,1990,Carbon monoxide (CO) emissions,0.0
+1,1991,Carbon monoxide (CO) emissions,-0.4726896483024923
+2,1992,Carbon monoxide (CO) emissions,-1.4837652962805665
+3,1993,Carbon monoxide (CO) emissions,-1.4432063009805909
+4,1994,Carbon monoxide (CO) emissions,-3.116473507760795
+5,1995,Carbon monoxide (CO) emissions,-2.5259517666989515
+6,1996,Carbon monoxide (CO) emissions,-4.522935418583504
+7,1997,Carbon monoxide (CO) emissions,-3.9951384397103924
+8,1998,Carbon monoxide (CO) emissions,-5.399761195958639
+9,1999,Carbon monoxide (CO) emissions,-7.118218096473333
+10,2000,Carbon monoxide (CO) emissions,-6.767112887408741
+11,2001,Carbon monoxide (CO) emissions,-8.095695940802443
+12,2002,Carbon monoxide (CO) emissions,-10.656305591097214
+13,2003,Carbon monoxide (CO) emissions,-9.670828349835805
+14,2004,Carbon monoxide (CO) emissions,-8.545428968922494
+15,2005,Carbon monoxide (CO) emissions,-7.847862710560483
+16,2006,Carbon monoxide (CO) emissions,-7.82811157021734
+17,2007,Carbon monoxide (CO) emissions,-8.385417472944404
+18,2008,Carbon monoxide (CO) emissions,-10.21860194637409
+19,2009,Carbon monoxide (CO) emissions,-11.393291679482976
+20,2010,Carbon monoxide (CO) emissions,-11.406140521505488
+21,2011,Carbon monoxide (CO) emissions,-12.077230021194868
+22,2012,Carbon monoxide (CO) emissions,-12.458535730078742
+23,2013,Carbon monoxide (CO) emissions,-12.67985686564984
+24,2014,Carbon monoxide (CO) emissions,-15.074562321595275
+25,2015,Carbon monoxide (CO) emissions,-17.14633208973055
+26,2016,Carbon monoxide (CO) emissions,-20.13373497462875
+27,2017,Carbon monoxide (CO) emissions,-21.227730749116432
+28,2018,Carbon monoxide (CO) emissions,-23.13561215746798
+29,2019,Carbon monoxide (CO) emissions,-25.15207267504276
+30,2020,Carbon monoxide (CO) emissions,-27.810022904457522
+31,2021,Carbon monoxide (CO) emissions,-27.72328817280582
+32,2022,Carbon monoxide (CO) emissions,-28.531927252266048
+33,1990,Nitrogen oxide (NOx),0.0
+34,1991,Nitrogen oxide (NOx),0.45872629795237474
+35,1992,Nitrogen oxide (NOx),0.7988808478102133
+36,1993,Nitrogen oxide (NOx),1.6813586102308549
+37,1994,Nitrogen oxide (NOx),1.6020983696442164
+38,1995,Nitrogen oxide (NOx),2.9934733232949062
+39,1996,Nitrogen oxide (NOx),3.9544307249779047
+40,1997,Nitrogen oxide (NOx),4.637828598641137
+41,1998,Nitrogen oxide (NOx),4.1450054224355934
+42,1999,Nitrogen oxide (NOx),2.952266069713752
+43,2000,Nitrogen oxide (NOx),5.064902486432937
+44,2001,Nitrogen oxide (NOx),4.69561256741935
+45,2002,Nitrogen oxide (NOx),4.888090091234417
+46,2003,Nitrogen oxide (NOx),7.904857549285681
+47,2004,Nitrogen oxide (NOx),11.845593234703559
+48,2005,Nitrogen oxide (NOx),14.38884899148787
+49,2006,Nitrogen oxide (NOx),17.145191209090914
+50,2007,Nitrogen oxide (NOx),20.304205115264548
+51,2008,Nitrogen oxide (NOx),20.5099050696746
+52,2009,Nitrogen oxide (NOx),13.422000793416638
+53,2010,Nitrogen oxide (NOx),12.838788940058102
+54,2011,Nitrogen oxide (NOx),17.09904899747779
+55,2012,Nitrogen oxide (NOx),16.21764566817243
+56,2013,Nitrogen oxide (NOx),14.293769626105062
+57,2014,Nitrogen oxide (NOx),12.15153231154921
+58,2015,Nitrogen oxide (NOx),10.74023697852557
+59,2016,Nitrogen oxide (NOx),9.464263575754474
+60,2017,Nitrogen oxide (NOx),9.292690590805105
+61,2018,Nitrogen oxide (NOx),8.196503302563126
+62,2019,Nitrogen oxide (NOx),6.015811194877953
+63,2020,Nitrogen oxide (NOx),-2.6623779969692136
+64,2021,Nitrogen oxide (NOx),0.3814361464222581
+65,2022,Nitrogen oxide (NOx),0.3604873557808077
+99,1990,Non-methane volatile organic compounds (NMVOC) emissions,0.0
+100,1991,Non-methane volatile organic compounds (NMVOC) emissions,0.13497622577841403
+101,1992,Non-methane volatile organic compounds (NMVOC) emissions,0.3383900725278096
+102,1993,Non-methane volatile organic compounds (NMVOC) emissions,0.9674302497043945
+103,1994,Non-methane volatile organic compounds (NMVOC) emissions,0.45037521800137476
+104,1995,Non-methane volatile organic compounds (NMVOC) emissions,1.6114126002157088
+105,1996,Non-methane volatile organic compounds (NMVOC) emissions,0.6750791459621155
+106,1997,Non-methane volatile organic compounds (NMVOC) emissions,1.5644679467983318
+107,1998,Non-methane volatile organic compounds (NMVOC) emissions,1.0738449477648824
+108,1999,Non-methane volatile organic compounds (NMVOC) emissions,0.37156117794187227
+109,2000,Non-methane volatile organic compounds (NMVOC) emissions,1.118845138478044
+110,2001,Non-methane volatile organic compounds (NMVOC) emissions,0.8781164356602774
+111,2002,Non-methane volatile organic compounds (NMVOC) emissions,0.8729923382001709
+112,2003,Non-methane volatile organic compounds (NMVOC) emissions,2.113807876372425
+113,2004,Non-methane volatile organic compounds (NMVOC) emissions,4.6243835298490445
+114,2005,Non-methane volatile organic compounds (NMVOC) emissions,6.313149388459988
+115,2006,Non-methane volatile organic compounds (NMVOC) emissions,6.733064062579887
+116,2007,Non-methane volatile organic compounds (NMVOC) emissions,6.816039707291817
+117,2008,Non-methane volatile organic compounds (NMVOC) emissions,6.923415275069244
+118,2009,Non-methane volatile organic compounds (NMVOC) emissions,5.399467788546985
+119,2010,Non-methane volatile organic compounds (NMVOC) emissions,7.709291464084654
+120,2011,Non-methane volatile organic compounds (NMVOC) emissions,8.982752226271835
+121,2012,Non-methane volatile organic compounds (NMVOC) emissions,11.124339300626431
+122,2013,Non-methane volatile organic compounds (NMVOC) emissions,11.15816451160794
+123,2014,Non-methane volatile organic compounds (NMVOC) emissions,11.930528470228865
+124,2015,Non-methane volatile organic compounds (NMVOC) emissions,11.449460606370469
+125,2016,Non-methane volatile organic compounds (NMVOC) emissions,11.625030331508167
+126,2017,Non-methane volatile organic compounds (NMVOC) emissions,12.603494352050005
+127,2018,Non-methane volatile organic compounds (NMVOC) emissions,12.097252350844048
+128,2019,Non-methane volatile organic compounds (NMVOC) emissions,11.000205320978367
+129,2020,Non-methane volatile organic compounds (NMVOC) emissions,8.92234890445433
+130,2021,Non-methane volatile organic compounds (NMVOC) emissions,9.165171394324215
+131,2022,Non-methane volatile organic compounds (NMVOC) emissions,8.729152413901122
+132,1990,Organic carbon (OC) emissions,0.0
+133,1991,Organic carbon (OC) emissions,1.1578048566721166
+134,1992,Organic carbon (OC) emissions,1.2055290502859515
+135,1993,Organic carbon (OC) emissions,0.7393097070888683
+136,1994,Organic carbon (OC) emissions,1.0305345723973682
+137,1995,Organic carbon (OC) emissions,2.7236532991338787
+138,1996,Organic carbon (OC) emissions,3.3033430555371703
+139,1997,Organic carbon (OC) emissions,4.625362051946522
+140,1998,Organic carbon (OC) emissions,3.595415812610383
+141,1999,Organic carbon (OC) emissions,4.444821669760174
+142,2000,Organic carbon (OC) emissions,3.761195956525301
+143,2001,Organic carbon (OC) emissions,3.831233546681936
+144,2002,Organic carbon (OC) emissions,5.193016936464961
+145,2003,Organic carbon (OC) emissions,7.365687671800824
+146,2004,Organic carbon (OC) emissions,9.641879070042695
+147,2005,Organic carbon (OC) emissions,11.551011201774966
+148,2006,Organic carbon (OC) emissions,13.341135667960046
+149,2007,Organic carbon (OC) emissions,14.248821105998669
+150,2008,Organic carbon (OC) emissions,15.8393103213778
+151,2009,Organic carbon (OC) emissions,16.54365747110744
+152,2010,Organic carbon (OC) emissions,18.365742265648123
+153,2011,Organic carbon (OC) emissions,17.306015991065642
+154,2012,Organic carbon (OC) emissions,16.80837274083349
+155,2013,Organic carbon (OC) emissions,17.20921789857986
+156,2014,Organic carbon (OC) emissions,16.722761628467843
+157,2015,Organic carbon (OC) emissions,15.404973438925273
+158,2016,Organic carbon (OC) emissions,15.221231832729295
+159,2017,Organic carbon (OC) emissions,15.677250518879479
+160,2018,Organic carbon (OC) emissions,14.54420756251969
+161,2019,Organic carbon (OC) emissions,13.388115793290565
+162,2020,Organic carbon (OC) emissions,12.148549945021141
+163,2021,Organic carbon (OC) emissions,12.937703575135625
+164,2022,Organic carbon (OC) emissions,12.28026733508224
+66,1990,Sulphur dioxide (SO₂) emissions,0.0
+67,1991,Sulphur dioxide (SO₂) emissions,-1.888152885027786
+68,1992,Sulphur dioxide (SO₂) emissions,-5.232564533356027
+69,1993,Sulphur dioxide (SO₂) emissions,-6.721564467002754
+70,1994,Sulphur dioxide (SO₂) emissions,-9.00579251530646
+71,1995,Sulphur dioxide (SO₂) emissions,-10.83151132459955
+72,1996,Sulphur dioxide (SO₂) emissions,-13.290711257641053
+73,1997,Sulphur dioxide (SO₂) emissions,-13.489602796314418
+74,1998,Sulphur dioxide (SO₂) emissions,-15.873917266251034
+75,1999,Sulphur dioxide (SO₂) emissions,-19.933829769975564
+76,2000,Sulphur dioxide (SO₂) emissions,-20.434722439237856
+77,2001,Sulphur dioxide (SO₂) emissions,-19.927851332649034
+78,2002,Sulphur dioxide (SO₂) emissions,-20.756433222958588
+79,2003,Sulphur dioxide (SO₂) emissions,-17.535804750436775
+80,2004,Sulphur dioxide (SO₂) emissions,-13.573761479983565
+81,2005,Sulphur dioxide (SO₂) emissions,-9.242438254736197
+82,2006,Sulphur dioxide (SO₂) emissions,-8.759286044681366
+83,2007,Sulphur dioxide (SO₂) emissions,-9.671628056171626
+84,2008,Sulphur dioxide (SO₂) emissions,-12.282005693391339
+85,2009,Sulphur dioxide (SO₂) emissions,-19.25420987164
+86,2010,Sulphur dioxide (SO₂) emissions,-21.991910510026393
+87,2011,Sulphur dioxide (SO₂) emissions,-19.52115816944973
+88,2012,Sulphur dioxide (SO₂) emissions,-21.772745426107953
+89,2013,Sulphur dioxide (SO₂) emissions,-25.15648190662847
+90,2014,Sulphur dioxide (SO₂) emissions,-28.653476560946
+91,2015,Sulphur dioxide (SO₂) emissions,-32.66027692269312
+92,2016,Sulphur dioxide (SO₂) emissions,-35.17250485674225
+93,2017,Sulphur dioxide (SO₂) emissions,-37.370613884396654
+94,2018,Sulphur dioxide (SO₂) emissions,-38.54841770323052
+95,2019,Sulphur dioxide (SO₂) emissions,-39.89445179611816
+96,2020,Sulphur dioxide (SO₂) emissions,-48.65678462960001
+97,2021,Sulphur dioxide (SO₂) emissions,-46.5926442635676
+98,2022,Sulphur dioxide (SO₂) emissions,-45.7756029715343
